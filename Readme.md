@@ -1,4 +1,4 @@
-# James Postadan - Portfolio Website
+# Simple Portfolio Website
 
 A clean, modern, and responsive portfolio website showcasing web development skills and experience.
 
@@ -145,9 +145,3 @@ This project is open source and available under the [MIT License](https://openso
 ## 🤝 Contributing
 
 Feel free to fork this project and customize it for your own use. If you make improvements that could benefit others, pull requests are welcome!
-
----
-
-**Made with ❤️ in Barcelona, Spain**
-
-For any questions or suggestions, feel free to reach out via the contact form or email!
